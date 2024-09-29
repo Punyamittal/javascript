@@ -1,0 +1,8 @@
+const myPromise = new Promise((resolve, reject) => {
+    // Asynchronous operation
+    if (/* operation successful */) {
+        resolve("Operation completed successfully");
+    } else {
+        reject("Operation failed");
+    }
+});
