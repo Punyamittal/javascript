@@ -1,0 +1,10 @@
+const myHeader= new Headers();
+myHeaaders.append("content-Type","application/json");
+const myRequest= new Request("https://ipunyam.org/post",
+{
+    method:"POST",
+    body: JSON.stringify({username:"exampe"}),
+    headers:myHeaders,
+
+});
+const response=await fetch(myRequest);
