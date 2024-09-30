@@ -1,0 +1,15 @@
+PS C:\Users\Dell\Desktop\New folder (2)\React> cd introReact
+PS C:\Users\Dell\Desktop\New folder (2)\React\introReact> npm create vite@latest
+√ Project name: ... react-projrct-onr
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+Scaffolding project in C:\Users\Dell\Desktop\New folder (2)\React\introReact\react-projrct-onr...
+
+Done. Now run:
+
+  cd react-projrct-onr
+  npm install
+  npm run dev
+
+PS C:\Users\Dell\Desktop\New folder (2)\React\introReact> 
