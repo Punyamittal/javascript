@@ -12,4 +12,26 @@ Done. Now run:
   npm install
   npm run dev
 
-PS C:\Users\Dell\Desktop\New folder (2)\React\introReact> 
+PS C:\Users\Dell\Desktop\New folder (2)\React\introReact> cd react-project-one
+Set-Location: Cannot find path 'C:\Users\Dell\Desktop\New folder (2)\React\introReact\react-project-one' because it does not exist.
+PS C:\Users\Dell\Desktop\New folder (2)\React\introReact> cd react-projrct-onr
+PS C:\Users\Dell\Desktop\New folder (2)\React\introReact\react-projrct-onr> npm install
+
+added 266 packages, and audited 267 packages in 1m
+
+102 packages are looking for funding
+  run `npm fund` for details        
+
+found 0 vulnerabilities
+PS C:\Users\Dell\Desktop\New folder (2)\React\introReact\react-projrct-onr> npm run dev
+
+> react-projrct-onr@0.0.0 dev
+> vite
+
+
+  VITE v5.4.8  ready in 1200 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
